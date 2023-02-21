@@ -6,7 +6,6 @@
                 <head>
                     <title>Recettes</title>
                     <link rel="stylesheet" href="style.css"/>
-
                 </head>
                 <body>
                     <nav>
@@ -57,7 +56,6 @@
             <html>
                 <head>
                     <link rel="stylesheet" href="style.css"/>
-
                     <title>Auteurs</title>
                 </head>
                 <body>
@@ -85,7 +83,6 @@
                 <head>
                     <title>Ingrédints</title>
                     <link rel="stylesheet" href="style.css"/>
-
                 </head>
                 <body>
                     <nav>
@@ -112,7 +109,6 @@
                 <head>
                     <title>Produits</title>
                     <link rel="stylesheet" href="style.css"/>
-
                 </head>
                 <body>
                     <nav>
@@ -139,7 +135,6 @@
                 <head>
                     <title>Categories</title>
                     <link rel="stylesheet" href="style.css"/>
-
                 </head>
                 <body>
                     <nav>
@@ -333,5 +328,4 @@
             </xsl:for-each>
         </xsl:for-each>
     </xsl:template>
-
 </xsl:stylesheet>
