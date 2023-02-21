@@ -5,8 +5,6 @@
         <!ELEMENT strong (#PCDATA) >
         <!ELEMENT br EMPTY >
         <!ELEMENT t (#PCDATA) >
-
-
         <!ENTITY % cate "nom, nom-court?, description" >
         <!ELEMENT recette (titre | resume | photo | date-publication | difficulte | ref-ingredient | nb-personnes | temps-preparation | temps-cuisson | temps-repos | description | note)* >
         <!ATTLIST
@@ -66,4 +64,3 @@
         <!ELEMENT pays (#PCDATA) >
         <!ELEMENT sexe (#PCDATA) >
         <!ELEMENT biographie %texte; >
-
